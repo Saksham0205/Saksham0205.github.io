@@ -9,12 +9,9 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Saksham - Full-Stack Developer & Founder",
-  description:
-    "Portfolio of Saksham - SDE Intern at Spyne and Founder of Ajnabee. Building scalable products with Next.js, Flutter, and modern cloud technologies.",
-  icons: {
+   icons: {
     icon: "/favicon.ico",
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
